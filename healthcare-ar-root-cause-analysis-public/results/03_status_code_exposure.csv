@@ -1,0 +1,21 @@
+﻿Status_Code,claim_count,total_balance,avg_balance
+Claim in Process,41,28322.77,690.8
+Claim Error,26,20426.55,785.64
+Pending Follow-up,25,18217.28,728.69
+Incorrect Submission,14,10228.06,730.58
+No Response from Payer,15,9548.38,636.56
+Medical Necessity,9,7244.26,804.92
+Invalid Procedure Code,10,7138.35,713.84
+Dx inconsistent with CPT,9,6373.59,708.18
+Other Reason,6,5575.62,929.27
+Missing Modifiers,8,5373.29,671.66
+Provider Info Missing,7,4733.69,676.24
+Claim not on file,7,4555.22,650.75
+Offset,6,2336.24,389.37
+Coordination of Benefits Issue,4,2051.19,512.8
+Member Not Eligible,4,1812.88,453.22
+Duplicate Claim,4,1681.14,420.29
+Eligibility Pending,2,655.49,327.74
+Payment Applied Elsewhere,1,349.41,349.41
+Overpayment,1,0,0
+Paid to Patient,1,0,0

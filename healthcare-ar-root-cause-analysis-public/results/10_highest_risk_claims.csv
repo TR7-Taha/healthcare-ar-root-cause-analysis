@@ -1,0 +1,11 @@
+﻿VisitID,Insurance_Name,Status,Status_Code,Action_Code,Assigned_To,Worked_By,Balance_Amount,Aging_Days
+66956M994309,Humana,No response,Missing Modifiers,Need coding assistance,Coding Team,John,1197.59,577
+72001N411002,Medicare,Claim at insurance,Other Reason,General Follow-up,AR Team,John,1194.59,378
+94578Y595668,Community Health Care,Error,Claim Error,Correct & Resubmit,Billing Team,David,1181.4,407
+35662I883442,UHC,Error,Claim Error,Correct & Resubmit,Billing Team,Laura,1177.72,380
+07308T314700,Community Health Care,Error,Claim Error,Correct & Resubmit,Billing Team,Anna,1169.15,271
+44306T697947,Aetna,Error,Claim Error,Correct & Resubmit,Billing Team,Laura,1169.1,506
+75830R074821,Community Health Care,Error,Claim Error,Correct & Resubmit,Billing Team,David,1164.29,325
+03799J589622,Community Health Care,Claim at insurance,Claim in Process,Monitor Claim Status,AR Team,Anna,1152.94,360
+94412N525236,Cigna,Pending,Pending Follow-up,Follow up with Insurance,Client Assistance,David,1152.86,571
+38511I998272,Medicare,Pending,Pending Follow-up,Follow up with Insurance,Client Assistance,Anna,1150.47,407

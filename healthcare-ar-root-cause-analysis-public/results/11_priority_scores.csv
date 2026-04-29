@@ -1,0 +1,201 @@
+﻿VisitID,Insurance_Name,Status,Status_Code,Balance_Amount,Aging_Days,priority_score
+44306T697947,Aetna,Error,Claim Error,1169.1,506,90
+94578Y595668,Community Health Care,Error,Claim Error,1181.4,407,80
+35662I883442,UHC,Error,Claim Error,1177.72,380,80
+45365Q444609,Aetna,Error,Claim Error,1118.07,461,80
+24157W687282,Humana,Error,Claim Error,1094.19,472,80
+90195R631079,Cigna,Error,Claim Error,1075.74,357,80
+75654X224585,Aetna,Denied,Incorrect Submission,979.51,365,80
+97550G682151,Aetna,Error,Claim Error,859.8,575,80
+56408P400612,Medicare,Error,Claim Error,805.38,552,80
+38812D543311,Molina,Error,Claim Error,805.33,543,80
+78239B993990,Community Health Care,Denied,Incorrect Submission,703.16,588,80
+07308T314700,Community Health Care,Error,Claim Error,1169.15,271,75
+75830R074821,Community Health Care,Error,Claim Error,1164.29,325,75
+28622N030427,Cigna,Denied,Medical Necessity,1056.02,508,75
+61512I108430,Cigna,Denied,Incorrect Submission,928.95,272,75
+58682F412397,UHC,Denied,Dx inconsistent with CPT,924.4,510,75
+04237J381657,Cigna,Denied,Medical Necessity,908.21,551,75
+35573F920749,Aetna,Error,Claim Error,800.37,426,70
+14483W926656,Cigna,Error,Claim Error,539.32,537,70
+59626G571382,Community Health Care,Denied,Incorrect Submission,330.25,595,70
+94412N525236,Cigna,Pending,Pending Follow-up,1152.86,571,65
+94697Z543622,Cigna,Claim at insurance,Claim in Process,1144.62,570,65
+54926J639116,Cigna,Pending,Incorrect Submission,1131.88,509,65
+75398A855969,Aetna,Claim at insurance,Claim in Process,1093.15,515,65
+12537E269279,Aetna,Denied,Missing Modifiers,1062.14,434,65
+47766W182534,UHC,Denied,Invalid Procedure Code,1061.81,434,65
+50667A336939,Molina,Denied,Medical Necessity,1021.31,371,65
+04712K881716,Medicare,Pending,Pending Follow-up,1018.12,527,65
+72755D048483,UHC,Claim at insurance,Claim in Process,902,598,65
+83563X423139,Medicare,Claim at insurance,Claim in Process,900.3,543,65
+05234P681981,Cigna,Error,Claim Error,882.7,300,65
+31839F540155,Humana,Denied,Invalid Procedure Code,879.51,539,65
+72917C568669,Cigna,Denied,Invalid Procedure Code,850.51,563,65
+60707S235196,Molina,Error,Claim Error,788.39,270,65
+14202J460894,UHC,Denied,Invalid Procedure Code,770.5,510,65
+24741U927228,Molina,Error,Claim Error,764.63,307,65
+80530X869902,Molina,Denied,Incorrect Submission,741.17,264,65
+89631Q365277,Medicare,Error,Claim Error,723.67,308,65
+36344U978835,Aetna,Denied,Claim not on file,718.62,571,65
+61315J337520,Molina,Denied,Provider Info Missing,703.06,545,65
+67463Z610121,Molina,Denied,Incorrect Submission,700.34,248,65
+30124A594806,Community Health Care,Denied,Provider Info Missing,1086.15,254,60
+57853B797920,Community Health Care,Error,Claim Error,647.54,476,60
+65033A150229,Aetna,Error,Claim Error,608.49,474,60
+61625Q598840,Cigna,Denied,Incorrect Submission,589.07,453,60
+90403N608081,Cigna,Error,Claim Error,313.14,476,60
+76650G607622,Community Health Care,Error,Claim Error,312.13,392,60
+72679C477607,Medicare,Error,Claim Error,276.99,473,60
+03799J589622,Community Health Care,Claim at insurance,Claim in Process,1152.94,360,55
+38511I998272,Medicare,Pending,Pending Follow-up,1150.47,407,55
+90119C007720,Humana,Claim at insurance,Claim in Process,1106.06,442,55
+12807B525572,Cigna,Claim at insurance,Claim in Process,1024.97,433,55
+66954F148219,Molina,Claim at insurance,Claim in Process,1020.4,488,55
+60515O505977,Community Health Care,Claim at insurance,Claim in Process,1012.08,492,55
+44943X818084,Molina,Pending,Pending Follow-up,1009.83,386,55
+29407V472879,Cigna,Claim at insurance,Claim in Process,985.49,440,55
+02042B954110,Cigna,No response,Incorrect Submission,977.66,499,55
+94910O048867,Medicare,Pending,Pending Follow-up,945.02,452,55
+38910A078056,Community Health Care,Pending,Pending Follow-up,933.99,474,55
+09162Q627488,Molina,Denied,Medical Necessity,884.2,369,55
+32465Q621026,Aetna,Denied,Other Reason,837.7,486,55
+64387B770648,Cigna,Denied,Missing Modifiers,809.25,393,55
+52361B573789,Humana,Denied,Coordination of Benefits Issue,766.2,451,55
+16166K525051,Humana,Claim at insurance,Claim in Process,745.93,595,55
+80225P750646,Community Health Care,Claim at insurance,Claim in Process,732.73,523,55
+75691U952157,Community Health Care,Denied,Invalid Procedure Code,732.35,411,55
+45014O512131,Humana,Claim at insurance,Claim in Process,706.65,514,55
+57499H923665,Cigna,Error,Claim Error,651.46,326,55
+72345N920077,Medicare,Denied,Member Not Eligible,619.11,593,55
+97815B930034,Cigna,Denied,Coordination of Benefits Issue,574.9,566,55
+85804H389198,UHC,Error,Claim Error,563.2,257,55
+60096K217010,Humana,Denied,Other Reason,528.06,585,55
+37821U285541,Humana,Denied,Offset,500.81,563,55
+43674O783590,UHC,Error,Claim Error,480.75,333,55
+11796P367451,Molina,Error,Claim Error,453.6,259,55
+40182A974395,Cigna,Denied,Member Not Eligible,388.03,587,55
+66956M994309,Humana,No response,Missing Modifiers,1197.59,577,50
+28957Z430681,UHC,Claim at insurance,Claim in Process,1134.55,244,50
+18283E511894,Community Health Care,No response,Incorrect Submission,1130.33,303,50
+83982G596451,Aetna,Pending,Pending Follow-up,1111.14,319,50
+70812X917728,Aetna,Claim at insurance,Claim in Process,1083.76,302,50
+91538D120440,Humana,Claim at insurance,Claim in Process,1070.21,301,50
+82450L680884,Cigna,Pending,Invalid Procedure Code,1063.45,544,50
+96929G913021,Medicare,No response,No Response from Payer,1059.38,340,50
+48105V340318,Aetna,No response,Medical Necessity,1049.18,518,50
+37866L439999,Medicare,No response,No Response from Payer,1041.1,272,50
+02481N839235,UHC,Pending,Pending Follow-up,1011.66,317,50
+41636X519957,Medicare,Claim at insurance,Claim in Process,987.9,277,50
+82180H739161,Medicare,No response,No Response from Payer,985.79,289,50
+82954I983337,Medicare,Claim at insurance,Claim in Process,968.27,258,50
+75734K473765,UHC,No response,Dx inconsistent with CPT,911.9,565,50
+40308D304665,Community Health Care,No response,Dx inconsistent with CPT,905.05,503,50
+89153V420168,Community Health Care,Denied,Other Reason,780.5,257,50
+05222I744071,Medicare,Denied,Medical Necessity,724.32,317,50
+70978X878213,UHC,Pending,Pending Follow-up,872.93,493,45
+83561F992004,Aetna,No response,No Response from Payer,789.65,356,45
+81737A424027,UHC,No response,Incorrect Submission,785.06,396,45
+27155A427091,Community Health Care,Claim at insurance,Claim in Process,672.26,553,45
+88195X704379,Aetna,Denied,Provider Info Missing,666.16,493,45
+10165F904278,Medicare,Pending,Pending Follow-up,647.98,531,45
+26460P141296,Aetna,Claim at insurance,Claim in Process,637.14,560,45
+87868Y213066,Cigna,Claim at insurance,Claim in Process,602.15,555,45
+52989X394462,Community Health Care,Claim at insurance,Incorrect Submission,580.6,597,45
+68115U601277,Community Health Care,No response,No Response from Payer,568.77,584,45
+20395K612760,Medicare,Pending,Pending Follow-up,551.56,537,45
+12169J459430,UHC,Pending,Pending Follow-up,528.99,524,45
+26831Y867314,Aetna,Claim at insurance,Claim in Process,519.85,598,45
+31080V329473,Molina,Denied,Provider Info Missing,454.95,384,45
+10219H660987,Community Health Care,Denied,Medical Necessity,451.46,423,45
+98124F451127,Medicare,Denied,Offset,441.04,355,45
+01830S397682,Cigna,Denied,Claim not on file,434.17,410,45
+10543Z932030,Community Health Care,Pending,Incorrect Submission,393.38,508,45
+07763Q535192,Cigna,Denied,Offset,297.25,484,45
+23393C454892,Medicare,No response,No Response from Payer,295.25,568,45
+08674D978264,Community Health Care,Claim at insurance,Claim in Process,276.82,527,45
+52959J588705,UHC,Claim at insurance,Claim in Process,274.97,608,45
+54532F877448,Molina,Denied,Dx inconsistent with CPT,273.67,368,45
+24935B688068,Medicare,Denied,Eligibility Pending,259.66,370,45
+78247H173816,Humana,Pending,Incorrect Submission,256.7,580,45
+58011D173941,Medicare,Denied,Overpayment,0,370,45
+72001N411002,Medicare,Claim at insurance,Other Reason,1194.59,378,40
+44608G733134,UHC,No response,Other Reason,1104.68,436,40
+56693Q905549,Cigna,No response,Claim not on file,1018.55,447,40
+54981D559564,Medicare,No response,Missing Modifiers,809.65,573,40
+04623N261581,Molina,Pending,Pending Follow-up,795.94,327,40
+40288B377796,Humana,Claim at insurance,Claim in Process,754.47,319,40
+92521I970342,Humana,No response,Dx inconsistent with CPT,734.68,538,40
+75759Q097962,Cigna,No response,No Response from Payer,726.91,315,40
+08512T463497,Humana,Pending,Pending Follow-up,725.73,294,40
+77026Q709903,Humana,Claim at insurance,Claim in Process,703.02,310,40
+89689T495255,UHC,Denied,Invalid Procedure Code,650.34,324,40
+36911I811146,Molina,Denied,Dx inconsistent with CPT,614.09,266,40
+81626V422754,UHC,Denied,Offset,604.66,332,40
+17066U547097,Cigna,Denied,Missing Modifiers,427.99,302,40
+20081K904744,Community Health Care,Denied,Duplicate Claim,408.29,334,40
+05025M066169,Aetna,Denied,Eligibility Pending,395.83,291,40
+48910H304482,Cigna,Denied,Duplicate Claim,385.47,323,40
+85039Q044224,Molina,Denied,Provider Info Missing,350.76,323,40
+60593S129717,Medicare,Denied,Payment Applied Elsewhere,349.41,298,40
+72115O726152,Medicare,Pending,Other Reason,1130.09,304,35
+56271P539795,Molina,No response,Provider Info Missing,1104.7,316,35
+81282H259875,Molina,No response,Dx inconsistent with CPT,1067.25,295,35
+14905R445090,Medicare,Pending,Pending Follow-up,696.41,465,35
+24744G035196,Aetna,Claim at insurance,Claim in Process,658.63,461,35
+77387D626136,Humana,Claim at insurance,Claim in Process,636.36,471,35
+36982O900087,Community Health Care,Pending,Pending Follow-up,614.57,368,35
+15527Q897214,Aetna,Pending,Pending Follow-up,595.12,452,35
+14931N142481,Medicare,No response,No Response from Payer,584.27,491,35
+69992D704140,Cigna,No response,No Response from Payer,580.4,427,35
+08890H816531,Aetna,No response,No Response from Payer,570.66,381,35
+47349M237590,Aetna,Claim at insurance,Claim in Process,541.23,361,35
+97885A027604,Medicare,No response,No Response from Payer,514.88,405,35
+28620W239134,Aetna,Pending,Pending Follow-up,502.78,395,35
+91509W915292,UHC,No response,No Response from Payer,490.04,463,35
+94164F064699,Medicare,Pending,Pending Follow-up,477.79,477,35
+72188L343211,Medicare,Claim at insurance,Claim in Process,460.36,365,35
+42222K459879,UHC,Pending,Pending Follow-up,440.9,453,35
+32907O352950,Community Health Care,Claim at insurance,Claim in Process,435.8,498,35
+96101R934125,UHC,Pending,Pending Follow-up,351.4,405,35
+38893B221976,Community Health Care,Claim at insurance,Claim in Process,338.41,418,35
+93026N060341,Molina,Claim at insurance,Claim in Process,321.43,427,35
+77692E812269,Molina,Claim at insurance,Claim in Process,284.8,480,35
+99542J774314,Cigna,Claim at insurance,Claim in Process,283.81,399,35
+98522T171382,Molina,Claim at insurance,Claim in Process,76.6,393,35
+22472S566150,Molina,No response,Medical Necessity,855.6,397,30
+48693V027898,Community Health Care,Claim at insurance,Claim in Process,683.43,313,30
+95566O245965,Medicare,No response,No Response from Payer,649.38,319,30
+55597T689126,UHC,Pending,Claim not on file,609.54,512,30
+49645E543991,Community Health Care,Pending,Pending Follow-up,569.36,256,30
+92831B308309,Aetna,No response,Duplicate Claim,565.2,527,30
+57089Y520799,Cigna,Pending,Pending Follow-up,553.21,292,30
+47905K797432,Medicare,Pending,Pending Follow-up,546.32,344,30
+15029U951573,Cigna,No response,Missing Modifiers,492.86,580,30
+22772T192337,Medicare,Pending,Claim not on file,483.44,559,30
+64549L405064,Humana,Claim at insurance,Claim in Process,450.81,330,30
+03145Q313139,Aetna,Pending,Invalid Procedure Code,440.91,504,30
+58974S201516,Medicare,Pending,Pending Follow-up,413.2,284,30
+99459V431769,Aetna,No response,No Response from Payer,398.95,287,30
+03395E224567,Humana,Claim at insurance,Claim in Process,385.39,253,30
+25844N534781,Community Health Care,Claim at insurance,Claim in Process,375.59,313,30
+72207H981613,Medicare,No response,Offset,304.68,562,30
+75857H791953,Cigna,No response,No Response from Payer,292.95,271,30
+92708F032503,Humana,Pending,Coordination of Benefits Issue,255.4,595,30
+42688C277016,UHC,Claim at insurance,Claim in Process,177.43,321,30
+31297F718172,Medicare,Claim at insurance,Claim not on file,883.87,255,25
+29127G998665,UHC,No response,Member Not Eligible,510.01,411,20
+96239T617120,Humana,No response,Coordination of Benefits Issue,454.69,381,20
+27466B066291,Aetna,No response,Invalid Procedure Code,435.47,415,20
+51009H624169,Humana,No response,Claim not on file,407.03,460,20
+79022S535473,Molina,Claim at insurance,Missing Modifiers,312.97,432,20
+53829I412092,Molina,Pending,Dx inconsistent with CPT,282.34,379,20
+58054X497827,Humana,No response,Missing Modifiers,260.84,375,20
+22067K664587,Community Health Care,No response,Invalid Procedure Code,253.5,486,20
+36496W542623,UHC,No response,Offset,187.8,413,20
+13424F477684,Aetna,Pending,Dx inconsistent with CPT,660.21,326,15
+09828H048023,Molina,No response,Provider Info Missing,367.91,342,15
+16291T958344,Aetna,Pending,Duplicate Claim,322.18,328,15
+56359G567400,Aetna,Claim at insurance,Member Not Eligible,295.73,271,15
+79688N711588,Cigna,No response,Medical Necessity,293.96,344,15
+33191C816022,Aetna,No response,Paid to Patient,0,308,15
