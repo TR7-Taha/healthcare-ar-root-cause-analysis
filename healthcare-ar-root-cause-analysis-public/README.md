@@ -96,7 +96,7 @@ healthcare-ar-root-cause-analysis-public/
 ## Notes
 - This is a **portfolio case study** built from a public dataset.
 - Recommendations are presented as a simulated business analysis deliverable.
-- The repository excludes the raw Kaggle CSV and personal interview-prep materials to keep the public version focused and professional.
+
 
 ## Author
 **Taha Radou**  
